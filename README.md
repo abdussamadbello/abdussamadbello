@@ -1,7 +1,7 @@
 Hi 👋 I'm Abdussamad Bello
 =================================
 
-**Senior Backend Engineer** with 7+ years of experience building scalable web applications and high-performance backend systems. Passionate about data privacy, security, and distributed systems.
+**Senior Backend Engineer** with 7+ years of experience building scalable web applications and high-performance backend systems. Passionate about AI engineering, data privacy, security, and distributed systems.
 
 * 🌍  Based in Nigeria | Open to Remote Work
 * 🖥️  See my portfolio at [Zulaiy](http://zulaiy.com)
@@ -57,7 +57,11 @@ Hi 👋 I'm Abdussamad Bello
 <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
 </p>
 
-**Also experienced with:** Django, Django REST Framework, Flask, Laravel, Celery, Redis, RabbitMQ, AWS SQS, Temporal.io, Elasticsearch, OpenSearch, DynamoDB, Kubernetes, HTMX, OpenTelemetry, Grafana, Zapier, n8n
+**AI & Machine Learning**
+
+`AI Engineering` · `AI Agents` · `LangChain` · `LangGraph` · `LlamaIndex` · `RAG Pipelines` · `OpenAI API`
+
+**Also experienced with:** Django, Django REST Framework, FastAPI, Flask, Laravel, Celery, Redis, RabbitMQ, AWS SQS, Temporal.io, Elasticsearch, OpenSearch, DynamoDB, Kubernetes, HTMX, OpenTelemetry, Grafana, Zapier, n8n
 
 ---
 
