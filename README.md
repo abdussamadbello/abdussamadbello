@@ -5,7 +5,6 @@ Hi 👋 I'm Abdussamad Bello
 
 * 🌍  Based in Nigeria | Open to Remote Work
 * 🖥️  See my portfolio at [Zulaiy](http://zulaiy.com)
-* ✉️  Reach me at [abdussamadbello@outlook.com](mailto:abdussamadbello@outlook.com)
 * 🔗  Connect on [LinkedIn](https://www.linkedin.com/in/abdussamadbello)
 * 🚀  Currently working on [Advatyzly](http://advatyzly.com)
 
